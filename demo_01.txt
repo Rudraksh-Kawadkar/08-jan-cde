@@ -1,3 +1,5 @@
 this is first commit of the git.
 
 we have succesfully commited first version, now we will commit second version.
+
+after committing second version changes, we are now going to commit the third version changes with adding one more PDF file to staging area.
